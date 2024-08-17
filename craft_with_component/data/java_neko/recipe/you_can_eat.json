@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_sword"
+    }
+  ],
+  "result": {
+    "id": "minecraft:netherite_sword",
+    "count": 1,
+    "components": {
+      "minecraft:food": {
+        "nutrition": 10,
+        "saturation": 10,
+        "can_always_eat": true,
+        "eat_seconds": 2
+      }
+    }
+  }
+}
